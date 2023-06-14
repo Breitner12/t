@@ -1,0 +1,11 @@
+@import "bootstrap/scss/bootstrap";
+
+  body {
+    background-image: url('logito.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  
+  
